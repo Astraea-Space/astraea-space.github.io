@@ -17,7 +17,7 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              Bringing Pharmaceutical<br className="max-lg:hidden" />
+              Bringing Pharmaceutical <br className="max-lg:hidden" />
               Payloads To The Moon
             </h1>
             <div className="mx-auto max-w-3xl pt-2">
