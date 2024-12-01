@@ -1,5 +1,5 @@
 "use client"
-import "./css/style.css";
+import "@/app/css/style.css";
 
 import { Inter, Source_Sans_3 } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react"
